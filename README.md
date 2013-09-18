@@ -1,10 +1,10 @@
-== README
+#README
 
 Until I have time to write a proper README, I'm leaving the default test as a "to-do" list.
 
 I'm working through the Ruby on Rails tutorial, but doing my own project rather than the project they suggest.
 
-Here is the default text: 
+###Here is the default text: 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
